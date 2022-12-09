@@ -1,7 +1,5 @@
 # Blackjack-PY
 
-over.
-
 Here are the basic rules of blackjack:
 
 The game is played with one or more decks of standard playing cards.
