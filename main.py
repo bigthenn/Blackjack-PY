@@ -75,4 +75,4 @@ def play_blackjack():
     dealer_total = calculate_hand(dealer_hand)
     # Check if the player has blackjack (21)
     if player_total == 21:
-        print("You have blackjack! You win
+        print("You have blackjack! You win")
